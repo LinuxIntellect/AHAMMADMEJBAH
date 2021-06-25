@@ -6,7 +6,7 @@
 </br>
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/Screenshot%202021-06-12%20at%2011.52.25%20PM.png" align="center">
 
-<a href="https://www.credly.com/badges/dfb903c6-5166-43ee-bbd0-2c7667c4a5d6/public_url" class="button" align="center">Verify</a>
+<center><a href="https://www.credly.com/badges/dfb903c6-5166-43ee-bbd0-2c7667c4a5d6/public_url" class="button">Verify</a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
 
