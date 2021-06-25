@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEJBAH AHAMMAD</h1>
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 
-<img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/LinkedIn%20Math%20Teacher%20Profile%20Header%20Banner.png" align="center">
+<img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/LinkedIn_Math_Teacher_Profile_Header_Banner-removebg-preview.png" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
 
