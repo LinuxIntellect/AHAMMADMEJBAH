@@ -5,7 +5,10 @@
 
 </br>
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/Screenshot%202021-06-12%20at%2011.52.25%20PM.png" align="center">
-<center><button class="glow-on-hover" type="button">Verify!</button></center>
+
+<form action="https://www.credly.com/badges/dfb903c6-5166-43ee-bbd0-2c7667c4a5d6/public_url">
+    <input type="submit" value="Verify" />
+</form>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
 
