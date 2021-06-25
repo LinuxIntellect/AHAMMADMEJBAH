@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEJBAH AHAMMAD</h1>
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
+![Machine Learning & Data Science Enthusiast](https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/MYGIT.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
 
