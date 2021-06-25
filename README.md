@@ -3,11 +3,6 @@
 
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/LinkedIn_Math_Teacher_Profile_Header_Banner-removebg-preview.png" align="center">
 
-</br>
-<img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/Screenshot%202021-06-12%20at%2011.52.25%20PM.png" align="center">
-
-<center><a href="https://www.credly.com/badges/dfb903c6-5166-43ee-bbd0-2c7667c4a5d6/public_url" class="button">Verify</a></center>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammadmejbah" alt="ahammadmejbah" /></a> </p>
