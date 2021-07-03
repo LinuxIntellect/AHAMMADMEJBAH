@@ -2,6 +2,7 @@
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/LinkedIn_Math_Teacher_Profile_Header_Banner-removebg-preview.png" align="center">
+<img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/1625204137057.svg" align="center">
 
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/1624470424682.jpg" align="center">
 <img src="https://github.com/AHAMMADMEJBAH/AHAMMADMEJBAH/blob/main/Screenshot%202021-06-12%20at%2011.52.25%20PM.png" align="center">
